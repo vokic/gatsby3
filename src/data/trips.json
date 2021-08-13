@@ -1,0 +1,26 @@
+[
+    {
+        "img" : "../assets/images/image-1.jpg",
+        "alt" : "Istorijski Beograd",
+        "name" : "Istorijski Beograd",
+        "button" : "Pogledaj destinaciju"
+    },
+    {
+        "img" : "../assets/images/image-2.jpg",
+        "alt" : "Divna Srbija",
+        "name" : "Divna Srbija",
+        "button" : "Pogledaj destinaciju"
+    },
+    {
+        "img" : "../assets/images/image-4.jpg",
+        "alt" : "Specijalne retro ture",
+        "name" : "Specijalne retro ture",
+        "button" : "Pogledaj destinaciju"
+    },
+    {
+        "img" : "../assets/images/image-3.jpg",
+        "alt" : "Lux Transferi",
+        "name" : "Lux Transferi",
+        "button" : "Pogledaj destinaciju"
+    }
+]
